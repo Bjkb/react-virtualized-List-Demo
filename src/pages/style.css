@@ -1,0 +1,36 @@
+ul{
+    list-style: none;
+    margin:13px 0;
+}
+ul li{
+    display: inline-block;
+    margin: 0 6px;
+}
+h3{
+    line-height: 20px;
+    height: 20px;
+    font-size: 20px;
+    margin: 0;
+}
+.App{    
+    padding: 13px 13px 6px;
+    border: solid #d9d9d9;
+    border-width: 0 0 1px 0;
+}
+.cont{
+    width: 60%;
+    margin:13px auto;
+}
+.autoSizer{
+    height: 260px;
+}
+.ListBox{
+    outline: 0;
+    border: solid #d9d9d9;
+    border-width: 1px;
+}
+.listItem{
+    box-sizing: border-box;
+    border: solid #d9d9d9;
+    border-width:0 0 1px 0;
+}
